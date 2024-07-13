@@ -3,8 +3,6 @@ Greetings,
 
 I am Harun MISTIK, also known as @mistih, a proficient software developer skilled in both low-level and high-level programming. My expertise spans across various programming languages including Python, Dart, CPP, C#, JavaScript, SQL, and PHP.
 
-My interests lie in a diverse array of fields such as Cyber Security, Software Development, Artificial Intelligence, Machine Learning, Data Science, Cloud Computing, Quantum Computing, and Automation. I am committed to utilizing cutting-edge tools and technologies to drive innovation and achieve optimal results in my projects.
-
 Here is an overview of some of the tools and technologies I employ in my work:
 
 - Device Encryption: I prioritize security by employing VeraCrypt AES-256 encryption and virtual disk encryption for all my storage devices, including PenDrives.
